@@ -1,11 +1,14 @@
-## Hi there 👋
+<p align="center">
+  ## Hi! 👋 I'm Mario Crespo
+</p>
 
-I'm Mario, a software developer and product manager focused on building innovative tools and games.
+A software developer and product manager focused on building innovative tools and games.
 
 ### 💬 Ask Me About
 - JavaScript, C# & Unity/Godot  
 - React & React Native  
-- Product management  
+- Product management
+- System Integration
 - Game design
 
 ### 🛠 Skills
