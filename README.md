@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**MarioACrespo/MarioACrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mario, a software developer and product manager focused on building innovative tools and games.
 
-Here are some ideas to get you started:
+### 💬 Ask Me About
+- JavaScript, C# & Unity/Godot  
+- React & React Native  
+- Product management  
+- Game design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Languages:** JavaScript, Python
+- **Frameworks & Tools:** React, React Native, Node.js, Express, PostgreSQL, Godot, Unity  
+- **Other:** Git, GitHub, Agile, Project Management
+
+### 📫 How to Reach Me
+- Email: [marioandrescrespo2004@gmail.com](#)
+- LinkedIn: [https://www.linkedin.com/in/mariocrespo0518/](#)
+- Portfolio: [Your Portfolio URL](#)
+
+### 😄 Pronouns
+He/Him
+
+### ⚡ Fun Fact
+I created one of my projects while I was abroad in Japan!
+
+
