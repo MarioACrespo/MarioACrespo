@@ -1,5 +1,5 @@
 <p align="center">
-  ## Hi! 👋 I'm Mario Crespo
+  <h1>Hi! 👋, I'm Mario Crespo </h1>
 </p>
 
 A software developer and product manager focused on building innovative tools and games.
